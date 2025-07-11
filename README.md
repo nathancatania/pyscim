@@ -2,6 +2,9 @@
 
 An (experimental) standards-compliant SCIM 2.0 server implementation built with FastAPI. Tested with Identity Providers (IdPs) such as Azure AD/Entra ID, Okta, and Jumpcloud.
 
+> [!WARNING]
+> PySCIM is experimental. Some components have not been fully tested. Use at your own risk. See [License](#license) below.
+
 ## Features
 
 - Full SCIM 2.0 compliance (RFC 7642, 7643, 7644)
